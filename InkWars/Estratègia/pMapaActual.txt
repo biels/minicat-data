@@ -1,0 +1,10 @@
+base0=0,53,24
+base1=-21,53,9
+base2=-14,53,-20
+base3=15,53,-20
+base4=22,53,9
+e_0=ORANGE;RED;Orange
+e_1=LIME;GREEN;Green
+e_2=LIGHT_BLUE;BLUE;Blue
+e_3=MAGENTA;PURPLE;Pink
+e_4=GRAY;BLACK;Black

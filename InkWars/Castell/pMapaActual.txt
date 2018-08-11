@@ -1,0 +1,4 @@
+base0=8,56,0
+base1=-8,56,0
+e_0=ORANGE;RED;Orange
+e_1=LIGHT_BLUE;BLUE;Blue

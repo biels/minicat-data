@@ -1,0 +1,4 @@
+arena_0=431,23,609
+arena_1=469,23,687
+spawn=419,5,648
+AutoReset=true

@@ -1,0 +1,11 @@
+base0=0,8,-111
+base1=1,10,109
+spawn=0,61,0
+Points_0=1,2,0
+Points_1=61,6,-47
+Points_2=99,6,10
+Points_3=-101,6,-9
+Points_4=-54,6,44
+PointNames=Mina,Ràdio,Magatzem,Fàbrica,Pedrera
+PointRadiuses=8,8,8,9,8
+CaptureRateMultipliers=12,20,15,15,15

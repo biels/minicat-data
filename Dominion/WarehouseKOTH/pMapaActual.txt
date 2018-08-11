@@ -1,0 +1,8 @@
+wiki=Dominion
+base0=-334,9,294
+base1=-324,10,288
+Points_0=-330,11,333
+PointNames=Turó
+PointRadiuses=6
+CaptureRateMultipliers=25
+spawn=-332,8,284

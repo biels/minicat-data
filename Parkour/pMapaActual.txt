@@ -1,0 +1,3 @@
+K=15
+endSpawn=-9,134,0
+endWinnerSpawn=-19,139,0

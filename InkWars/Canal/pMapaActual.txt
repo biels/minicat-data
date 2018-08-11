@@ -1,0 +1,5 @@
+spawn=1406,21,-515
+base0=1411,13,-483
+base1=1409,17,-563
+e_0=LIGHT_BLUE;BLUE;Blue
+e_1=PINK;PURPLE;Pink

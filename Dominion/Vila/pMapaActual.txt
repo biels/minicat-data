@@ -1,0 +1,9 @@
+base0=1410,21,-482
+base1=1405,20,-548
+Points_0=1408,20,-515
+Points_1=1424,15,-515
+Points_2=1392,15,-515
+PointNames=Central,Lila,Groc
+PointRadiuses=5,5,5
+CaptureRateMultipliers=12,18,18
+spawn=1408,46,-517

@@ -1,0 +1,5 @@
+base0=1408,15,-553
+spawn=1408,11,-520
+base1=1408,14,-487
+e_0=ORANGE;RED;Orange
+e_1=LIME;GREEN;Green

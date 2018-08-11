@@ -1,0 +1,4 @@
+e_0=YELLOW;ORANGE;Pilota
+e_1=LIGHT_BLUE;BLUE;NRG
+base0=-6,52,165
+base1=-5,52,3

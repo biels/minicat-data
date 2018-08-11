@@ -1,0 +1,7 @@
+base0=33,63,50
+base1=-29,64,27
+base2=-2,60,20
+e_0=ORANGE;RED;Orange
+e_1=LIME;GREEN;Green
+e_2=LIGHT_BLUE;BLUE;Blue
+spawn=12,66,53

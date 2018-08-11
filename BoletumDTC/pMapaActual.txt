@@ -1,0 +1,5 @@
+wiki=Boletus_DTC
+base0=23,18,-8
+base1=-233,18,-8
+Cores2_0=-170,15,-8
+Cores1_0=-40,15,-8
