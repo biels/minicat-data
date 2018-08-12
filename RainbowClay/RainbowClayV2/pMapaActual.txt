@@ -25,3 +25,5 @@ WBlue=-624,118,560
 BonusProtect_0=-667,128,534
 BonusProtect_1=-667,128,586
 ObjectiveProtectionRadius=2
+RegCT_0=-666,132,561
+RegCT_1=-668,132,559
