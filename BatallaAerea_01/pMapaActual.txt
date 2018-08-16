@@ -1,0 +1,15 @@
+K=28
+wiki=BedWars
+spawn=0,104,0
+arena_0=-0,96,8
+arena_1=16,97,-21
+arena_2=-11,97,-15
+arena_3=-21,95,-11
+arena_4=-17,95,1
+arena_5=-7,94,18
+arena_6=-1,95,15
+arena_7=14,95,21
+arena_8=19,95,12
+arena_9=-3,95,0
+arena_10=6,95,1
+MinHeight=5
