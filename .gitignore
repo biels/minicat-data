@@ -1,0 +1,8 @@
+*_the_end
+*_end.dat
+*.json
+*.yml
+*.jar
+*.txt
+logs/
+server.properties
